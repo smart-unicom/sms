@@ -1,4 +1,4 @@
-module github.com/smart-unicom/su-sms
+module github.com/smart-unicom/sms
 
 go 1.22.3
 

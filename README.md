@@ -1,4 +1,4 @@
-# 📱 su-sms
+# 📱 sms
 
 一个功能强大的Go语言短信发送组件库，支持多家主流短信服务提供商的统一接口调用。
 
@@ -41,7 +41,7 @@
 ## 📦 安装
 
 ```bash
-go get github.com/smart-unicom/su-sms
+go get github.com/smart-unicom/sms
 ```
 
 ## 🚀 快速开始
@@ -53,7 +53,7 @@ package main
 
 import (
     "fmt"
-    "github.com/smart-unicom/su-sms"
+    "github.com/smart-unicom/sms"
 )
 
 func main() {
@@ -92,7 +92,7 @@ func main() {
 package main
 
 import (
-    "github.com/smart-unicom/su-sms"
+    "github.com/smart-unicom/sms"
 )
 
 func main() {
@@ -124,7 +124,7 @@ func main() {
 package main
 
 import (
-    "github.com/smart-unicom/su-sms"
+    "github.com/smart-unicom/sms"
 )
 
 func main() {
@@ -157,7 +157,7 @@ func main() {
 package main
 
 import (
-    "github.com/smart-unicom/su-sms"
+    "github.com/smart-unicom/sms"
 )
 
 func main() {
@@ -190,7 +190,7 @@ func main() {
 package main
 
 import (
-    "github.com/smart-unicom/su-sms"
+    "github.com/smart-unicom/sms"
 )
 
 func main() {
@@ -224,7 +224,7 @@ func main() {
 package main
 
 import (
-    "github.com/smart-unicom/su-sms"
+    "github.com/smart-unicom/sms"
 )
 
 func main() {
